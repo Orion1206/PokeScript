@@ -29,13 +29,14 @@ juego/
    bash juego/pokemon.sh
    ```
 4. Sigue las instrucciones en pantalla para comenzar la partida.
+5. Tener en cuenta que para moverte a traves de los menus se utilizan las teclas `w` y `s`
 
 ---
 
 ## 💾 Guardado de partidas
 
 - Las partidas se guardan en la carpeta `partidas/`.
-- Si se desea visualizar una partida es preferible usar el comando cat ya que este permite visualizar colores.
+- Si se desea visualizar una partida es preferible usar el comando `cat` ya que este permite visualizar colores.
 
 ---
 
